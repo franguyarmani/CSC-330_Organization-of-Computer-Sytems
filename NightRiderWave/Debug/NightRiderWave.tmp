@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\NightRiderWave\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\NightRiderWave\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\NightRiderWave\Debug\NightRiderWave.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>NightRiderWave.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>NightRiderWave.map</FILE>
+  <FILE>NightRiderWave.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <setup><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\NightRiderWave\main.asm</FILE><LINE>24</LINE></setup>
+  <loop1><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\NightRiderWave\main.asm</FILE><LINE>42</LINE></loop1>
+  <delay_100ms><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\NightRiderWave\main.asm</FILE><LINE>93</LINE></delay_100ms>
+  <carry><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\NightRiderWave\main.asm</FILE><LINE>53</LINE></carry>
+  <loop2><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\NightRiderWave\main.asm</FILE><LINE>67</LINE></loop2>
+  <delay_1s><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\NightRiderWave\main.asm</FILE><LINE>77</LINE></delay_1s>
+  <delay_1s_1><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\NightRiderWave\main.asm</FILE><LINE>78</LINE></delay_1s_1>
+  <delay_1s_2><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\NightRiderWave\main.asm</FILE><LINE>79</LINE></delay_1s_2>
+  <delay_1s_3><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\NightRiderWave\main.asm</FILE><LINE>80</LINE></delay_1s_3>
+  <delay_1s_4><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\NightRiderWave\main.asm</FILE><LINE>87</LINE></delay_1s_4>
+  <delay_100ms_1><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\NightRiderWave\main.asm</FILE><LINE>96</LINE></delay_100ms_1>
+  <delay_10ms><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\NightRiderWave\main.asm</FILE><LINE>104</LINE></delay_10ms>
+  <delay_10ms_1><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\NightRiderWave\main.asm</FILE><LINE>106</LINE></delay_10ms_1>
+ </LABELS>
+</ASSEMBLER_INFO>
