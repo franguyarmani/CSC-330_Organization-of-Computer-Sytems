@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.2.6  C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\NightRiderWave\main.asm Tue Oct 31 10:30:23 2017
+AVRASM ver. 2.2.6  C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\Homework9\Homework9\main.asm Wed Nov 01 14:27:03 2017
 
 
 EQU  SIGNATURE_000 0000001e
@@ -1142,23 +1142,5 @@ EQU  TIMER4_COMPAaddr 00000054
 EQU  TIMER4_COMPBaddr 00000056
 EQU  TIMER4_OVFaddr 00000058
 EQU  INT_VECTORS_SIZE 0000005a
-DEF  leds_d       r17
-DEF  leds_b       r18
-DEF  left         r19
-DEF  right        r23
-DEF  io_setupD    r24
-DEF  io_setupB    r25
-DEF  off          r26
-CSEG setup        00000100
-CSEG loop1        00000109
-CSEG delay_100ms  0000012f
-CSEG carry        0000010f
-CSEG loop2        0000011b
-CSEG delay_1s     00000121
-CSEG delay_1s_1   00000122
-CSEG delay_1s_2   00000123
-CSEG delay_1s_3   00000124
-CSEG delay_1s_4   0000012b
-CSEG delay_100ms_1 00000132
-CSEG delay_10ms   00000139
-CSEG delay_10ms_1 0000013b
+CSEG start        00000000
+ESEG numbers      00001000

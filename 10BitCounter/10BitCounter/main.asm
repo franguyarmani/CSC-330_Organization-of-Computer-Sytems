@@ -29,7 +29,8 @@ setup:
 loop:
 					inc		leds_d
 					out		PORTD,	leds_d
-					
+					rcall	delay_100ms
+					rjmp	loop
 
 
 					breq	carry

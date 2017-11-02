@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.2.6  C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm Wed Oct 25 18:21:13 2017
+AVRASM ver. 2.2.6  C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm Tue Oct 31 15:25:50 2017
 
 
 EQU  SIGNATURE_000 0000001e
@@ -1147,13 +1147,13 @@ DEF  leds_d       r17
 DEF  leds_b       r18
 CSEG setup        00000100
 CSEG loop         00000105
-CSEG carry        0000010a
-CSEG delay_10ms   00000126
-CSEG delay_1s     0000010e
-CSEG delay_1s_1   0000010f
-CSEG delay_1s_2   00000110
-CSEG delay_1s_3   00000111
-CSEG delay_1s_4   00000118
-CSEG delay_100ms  0000011c
-CSEG delay_100ms_1 0000011f
-CSEG delay_10ms_1 00000128
+CSEG delay_100ms  0000011e
+CSEG carry        0000010c
+CSEG delay_10ms   00000128
+CSEG delay_1s     00000110
+CSEG delay_1s_1   00000111
+CSEG delay_1s_2   00000112
+CSEG delay_1s_3   00000113
+CSEG delay_1s_4   0000011a
+CSEG delay_100ms_1 00000121
+CSEG delay_10ms_1 0000012a

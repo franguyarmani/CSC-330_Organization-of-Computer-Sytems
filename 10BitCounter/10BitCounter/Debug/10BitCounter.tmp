@@ -24,15 +24,15 @@
  <LABELS>
   <setup><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>18</LINE></setup>
   <loop><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>29</LINE></loop>
-  <carry><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>39</LINE></carry>
-  <delay_10ms><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>74</LINE></delay_10ms>
-  <delay_1s><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>47</LINE></delay_1s>
-  <delay_1s_1><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>48</LINE></delay_1s_1>
-  <delay_1s_2><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>49</LINE></delay_1s_2>
-  <delay_1s_3><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>50</LINE></delay_1s_3>
-  <delay_1s_4><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>57</LINE></delay_1s_4>
-  <delay_100ms><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>63</LINE></delay_100ms>
-  <delay_100ms_1><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>66</LINE></delay_100ms_1>
-  <delay_10ms_1><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>76</LINE></delay_10ms_1>
+  <delay_100ms><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>64</LINE></delay_100ms>
+  <carry><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>40</LINE></carry>
+  <delay_10ms><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>75</LINE></delay_10ms>
+  <delay_1s><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>48</LINE></delay_1s>
+  <delay_1s_1><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>49</LINE></delay_1s_1>
+  <delay_1s_2><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>50</LINE></delay_1s_2>
+  <delay_1s_3><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>51</LINE></delay_1s_3>
+  <delay_1s_4><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>58</LINE></delay_1s_4>
+  <delay_100ms_1><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>67</LINE></delay_100ms_1>
+  <delay_10ms_1><FILE>C:\Users\fbpea\Git_Repositories\CSC_330_Organization_of_Computer_Systems\10BitCounter\10BitCounter\main.asm</FILE><LINE>77</LINE></delay_10ms_1>
  </LABELS>
 </ASSEMBLER_INFO>
