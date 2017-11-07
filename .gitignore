@@ -1,2 +1,7 @@
 *.BMP
 *.jpg
+*.hex
+*.lss
+*.xml
+*.obj
+*.tmp
